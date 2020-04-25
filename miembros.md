@@ -1,5 +1,6 @@
 # Miembros
 
+* Goku
 * Black panther
 * Black Widow
 * Capitán America
